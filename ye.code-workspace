@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../python_practice"
+		},
+		{
+			"path": "../../project_ting"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"
+	}
+}
